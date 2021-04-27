@@ -66,6 +66,8 @@ Ferramentas que utilizo  :rocket:
     <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" alt="INSOMINIA" height="30" width="30" />
 </a>
 
+<br>
+
 <a href="https://www.postgresql.org/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="POSTGRESQL" height="30" width="30" />
 </a>
