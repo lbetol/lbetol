@@ -38,28 +38,28 @@ Onde me encontrar  :wink:
 Ferramentas que utilizo  :rocket:
 
 <a href="https://manjaro.org/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/manjarowelcome_94304.png" alt="DOCKER" height="30" width="30" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/manjarowelcome_94304.png" alt="MANJARO" height="30" width="30" />
 </a>
 
 <a href="https://www.selenium.dev/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="DOCKER" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="SELENIUM" height="30" width="30" />
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="DOCKER" height="30" width="30" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="PYTHON" height="30" width="30" />
 </a>
 
 <a href="https://elixir-lang.org/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="DOCKER" height="30" width="30" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="ELIXIR" height="30" width="30" />
 </a>
 
 <a href="https://scrapy.org/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg" alt="DOCKER" height="30" width="75" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg" alt="SCRAPY" height="30" width="75" />
 </a>
 
 
 <a href="https://www.docker.com/" target="_blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="DOCKER" height="30" width="30" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="DOCKER" height="30" width="30" />
 </a>
 
 <a href="https://insomnia.rest/" target="_blank">
