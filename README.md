@@ -21,9 +21,9 @@ Onde me encontrar  :wink:
     <img align="center" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Linkedin - alberto-barrios" height="30" width="30" />
 </a>
 
-<a href="https://app.rocketseat.com.br/me/alberto-barrios-01521" target="_blank">
+<!-- <a href="https://app.rocketseat.com.br/me/alberto-barrios-01521" target="_blank">
   <img align="center" src="https://cdn-images-1.medium.com/max/184/1*TkXVfLTwsHdwpUEjGzdi9w@2x.jpeg" alt="Comunidade Rocketseat - alberto-barrios" height="30" width="30" />
-</a>
+</a> -->
 
 <a href="https://www.instagram.com/lbetol/" target="_blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram - alberto-barrios" height="30" width="30" />
