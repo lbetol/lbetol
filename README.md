@@ -3,7 +3,7 @@
   <img align="right" src="https://blush.design/api/download?shareUri=YcMdU7PUqfDI-84P&c=Skin_0%7E694d3d&w=800&h=800&fm=png" alt="alberto-barrios" width="200"/>
 </div>
 
-**Saudações visitante**<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+**Saudações visitante**
 
 Me chamo Alberto Barrios.
 <br>
